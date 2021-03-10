@@ -5,4 +5,4 @@
 **/notebooks/*.csv
 new-notebook.ipynb
 _packages
-
+__pycache__
