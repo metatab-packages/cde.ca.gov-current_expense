@@ -3,20 +3,20 @@ Title,Current Expense of Education
 Description,Calculation of current expense (cost) of education per average daily attendance
 Description,(ADA) pursuant to Education Code Section 41372.
 Identifier,10b6d66b-b69b-4031-be76-cebf5fce2875
-Name,cde.ca.gov-current_expense-1.2.1
+Name,cde.ca.gov-current_expense-1.2.2
 Dataset,current_expense
 Origin,cde.ca.gov
 Time,
 Space,
 Grain,
 Variant,
-Version,1.2.1
+Version,1.2.2
 Version.Major,1
 Version.Minor,2
-Version.Patch,1
+Version.Patch,2
 Created,2019-03-14T18:02:12
-Modified,2021-02-25T02:39:43
-Giturl,https://github.com/Metatab/metatab-packages.git
+Modified,2022-06-17T17:11:14
+Giturl,https://github.com/metatab-packages/cde.ca.gov-current_expense.git
 ""
 Section,Contacts,Email,Organization,Url,,,,
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com,,,,
